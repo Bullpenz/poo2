@@ -1,0 +1,16 @@
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\bin\Debug\net5.0\Raphael_saldanha.exe
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\bin\Debug\net5.0\Raphael_saldanha.deps.json
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\bin\Debug\net5.0\Raphael_saldanha.runtimeconfig.json
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\bin\Debug\net5.0\Raphael_saldanha.runtimeconfig.dev.json
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\bin\Debug\net5.0\Raphael_saldanha.dll
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\bin\Debug\net5.0\ref\Raphael_saldanha.dll
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\bin\Debug\net5.0\Raphael_saldanha.pdb
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.csproj.AssemblyReference.cache
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.AssemblyInfoInputs.cache
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.AssemblyInfo.cs
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.csproj.CoreCompileInputs.cache
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.dll
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\ref\Raphael_saldanha.dll
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.pdb
+C:\Users\IANDE\source\repos\Raphael_saldanha\Raphael_saldanha\obj\Debug\net5.0\Raphael_saldanha.genruntimeconfig.cache
